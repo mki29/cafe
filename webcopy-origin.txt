@@ -1,0 +1,848 @@
+Uri: http://cafe/
+File Name: C:\Downloaded Web Sites\cafe\index.htm
+Content Type: text/html
+
+Uri: http://cafe/comments/feed/
+File Name: C:\Downloaded Web Sites\cafe\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://cafe/feed/
+File Name: C:\Downloaded Web Sites\cafe\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.10.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.17.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.17.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.17.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.17.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.17.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.17.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: http://cafe/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/animate.min.css?ver=3.7.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/bootstrap-datepicker.min.css?ver=1.9.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\bootstrap-datepicker.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/flickity.min.css?ver=2.2.1
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\flickity.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/icofont.min.css?ver=1.0.1
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\icofont.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/jquery.multiscroll.min.css?ver=0.2.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\jquery.multiscroll.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/jquery.timepicker.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\jquery.timepicker.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/juxtapose.css?ver=1.2.1
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\juxtapose.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/linea.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\linea.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/magnific-popup.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\magnific-popup.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/niche-frame.css?ver=1.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\niche-frame.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/owl.carousel.min.css?ver=2.3.4
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/responsive.css?ver=1.3
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\responsive.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/slick-theme.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\slick-theme.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/slick.min.css?ver=1.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\slick.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/styles.css?ver=1.4.1
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\styles.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/css/themify-icons.min.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\css\themify-icons.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/icofont.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\icofont.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/icofont.woff2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\icofont.woff2
+Content Type: font/woff2
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-arrows-10.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-arrows-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-arrows-10.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-arrows-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-arrows-10.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-arrows-10.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-arrows-10.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-arrows-10.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-arrows-10.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-arrows-10.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-10.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-10.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-10.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-10.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-10.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-10.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-10.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-10.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-elaboration-10.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-elaboration-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-elaboration-10.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-elaboration-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-elaboration-10.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-elaboration-10.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-elaboration-10.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-elaboration-10.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-basic-elaboration-10.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-basic-elaboration-10.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-ecommerce-10.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-ecommerce-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-ecommerce-10.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-ecommerce-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-ecommerce-10.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-ecommerce-10.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-ecommerce-10.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-ecommerce-10.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-ecommerce-10.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-ecommerce-10.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-music-10.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-music-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-music-10.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-music-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-music-10.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-music-10.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-music-10.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-music-10.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-music-10.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-music-10.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-software-10.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-software-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-software-10.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-software-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-software-10.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-software-10.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-software-10.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-software-10.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-software-10.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-software-10.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-weather-10.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-weather-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-weather-10.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-weather-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-weather-10.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-weather-10.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-weather-10.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-weather-10.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/linea-weather-10.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\linea-weather-10.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\slick.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/themify.eot
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\themify.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/themify.eot?
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\themify-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/themify.svg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\themify.svg
+Content Type: image/svg+xml
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\themify.ttf
+Content Type: font/ttf
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\fonts\themify.woff
+Content Type: font/woff
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/images/map-marker.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\images\map-marker.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/images/tables/chair.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\images\tables\chair.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/images/tables/table.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\images\tables\table.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/bootstrap-datepicker.min.js?ver=1.9.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\bootstrap-datepicker.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/Chart.min.js?ver=2.9.3
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\Chart.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/flickity.pkgd.min.js?ver=2.2.1
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\flickity.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/helium.parallax.js?ver=2.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\helium.parallax.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/isotope.min.js?ver=3.0.6
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\isotope.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/jquery.counterup.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\jquery.counterup.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/jquery.easing.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/jquery.magnific-popup.min.js?ver=1.1.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\jquery.magnific-popup.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/jquery.matchHeight.min.js?ver=0.7.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\jquery.matchHeight.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/jquery.multiscroll.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\jquery.multiscroll.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/jquery.timepicker.min.js?ver=1.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\jquery.timepicker.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/jquery.waypoints.min.js?ver=4.0.1
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/juxtapose.js?ver=1.2.1
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\juxtapose.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/owl.carousel.min.js?ver=2.3.4
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/packery-mode.pkgd.min.js?ver=2.1.2
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\packery-mode.pkgd.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/scripts.js?ver=1.4
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\scripts.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/scrollax.min.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\scrollax.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/slick.min.js?ver=1.9.0
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\slick.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/assets/js/typed.min.js?ver=2.0.11
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\assets\js\typed.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/plugins/restaurant-cafe-addon-for-elementor/elementor/js/narestaurant-elementor.js?ver=6.1.1
+File Name: C:\Downloaded Web Sites\cafe\wp-content\plugins\restaurant-cafe-addon-for-elementor\elementor\js\narestaurant-elementor.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/themes/twentytwentyone/assets/css/print.css?ver=1.7
+File Name: C:\Downloaded Web Sites\cafe\wp-content\themes\twentytwentyone\assets\css\print.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/themes/twentytwentyone/assets/js/responsive-embeds.js?ver=1.7
+File Name: C:\Downloaded Web Sites\cafe\wp-content\themes\twentytwentyone\assets\js\responsive-embeds.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-content/themes/twentytwentyone/style.css?ver=1.7
+File Name: C:\Downloaded Web Sites\cafe\wp-content\themes\twentytwentyone\style.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/uploads/2023/02/Круассаны-с-кофе-или-как-позавтракать-по-французски-рецепт-1.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\Круассаны-с-кофе-или-как-позавтракать-по-французски-рецепт-1.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/207746992.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\207746992.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/uploads/2023/02/400_0_1607089802-5656-300x201.webp
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\400_0_1607089802-5656-300x201.webp
+Content Type: image/webp
+
+Uri: http://cafe/wp-content/uploads/2023/02/400_0_1607089802-5656.webp
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\400_0_1607089802-5656.webp
+Content Type: image/webp
+
+Uri: http://cafe/wp-content/uploads/2023/02/appetizer-1.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\appetizer-1.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/calzone-pizza-624x416-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\calzone-pizza-624x416-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/calzone-pizza-624x416-1.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\calzone-pizza-624x416-1.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/caption-300x225.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\caption-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/caption.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\caption.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/coffee-iStock-1311749281-1024x512.webp
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\coffee-iStock-1311749281-1024x512.webp
+Content Type: image/webp
+
+Uri: http://cafe/wp-content/uploads/2023/02/coffee-iStock-1311749281-300x150.webp
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\coffee-iStock-1311749281-300x150.webp
+Content Type: image/webp
+
+Uri: http://cafe/wp-content/uploads/2023/02/coffee-iStock-1311749281-768x384.webp
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\coffee-iStock-1311749281-768x384.webp
+Content Type: image/webp
+
+Uri: http://cafe/wp-content/uploads/2023/02/coffee-iStock-1311749281.webp
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\coffee-iStock-1311749281.webp
+Content Type: image/webp
+
+Uri: http://cafe/wp-content/uploads/2023/02/divider_dark.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\divider_dark.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/uploads/2023/02/divider_light.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\divider_light.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/uploads/2023/02/Logo_elementor.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\Logo_elementor.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/uploads/2023/02/pasted-image-0-300x200.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\pasted-image-0-300x200.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/uploads/2023/02/pasted-image-0.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\pasted-image-0.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/uploads/2023/02/Quote_symbol.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\Quote_symbol.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/uploads/2023/02/recipe_be21a42c-dcaa-4211-b207-1ad519404991_w450-300x200.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\recipe_be21a42c-dcaa-4211-b207-1ad519404991_w450-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/recipe_be21a42c-dcaa-4211-b207-1ad519404991_w450.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\recipe_be21a42c-dcaa-4211-b207-1ad519404991_w450.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/Rectangle-2-bitmap.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\Rectangle-2-bitmap.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/Rectangle-2-Copy-2-bitmap-1.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\Rectangle-2-Copy-2-bitmap-1.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/Rectangle-2-Copy-bitmap-1.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\Rectangle-2-Copy-bitmap-1.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/Rectangle-bitmap.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\Rectangle-bitmap.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/Rectangle_testimonial.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\Rectangle_testimonial.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/review_61169fe4c0742.jpeg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\review_61169fe4c0742.jpeg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/SHUBA-300x200.webp
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\SHUBA-300x200.webp
+Content Type: image/webp
+
+Uri: http://cafe/wp-content/uploads/2023/02/SHUBA.webp
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\SHUBA.webp
+Content Type: image/webp
+
+Uri: http://cafe/wp-content/uploads/2023/02/Speical_offer_stamp.png
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\Speical_offer_stamp.png
+Content Type: image/png
+
+Uri: http://cafe/wp-content/uploads/2023/02/squid-1573802_640-150x150.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\squid-1573802_640-150x150.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/squid-1573802_640-300x300.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\squid-1573802_640-300x300.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/2023/02/squid-1573802_640.jpg
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\2023\02\squid-1573802_640.jpg
+Content Type: image/jpeg
+
+Uri: http://cafe/wp-content/uploads/elementor/css/post-5.css?ver=1675364666
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: http://cafe/wp-content/uploads/elementor/css/post-81.css?ver=1675365639
+File Name: C:\Downloaded Web Sites\cafe\wp-content\uploads\elementor\css\post-81.css
+Content Type: text/css
+
+Uri: http://cafe/wp-includes/css/classic-themes.min.css?ver=1
+File Name: C:\Downloaded Web Sites\cafe\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-includes/css/dist/block-library/style.min.css?ver=6.1.1
+File Name: C:\Downloaded Web Sites\cafe\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://cafe/wp-includes/js/imagesloaded.min.js?ver=4.1.4
+File Name: C:\Downloaded Web Sites\cafe\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\cafe\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-includes/js/jquery/jquery.min.js?ver=3.6.1
+File Name: C:\Downloaded Web Sites\cafe\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\cafe\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://cafe/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\cafe\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: http://cafe/wp-json/
+File Name: C:\Downloaded Web Sites\cafe\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://cafe/wp-json/oembed/1.0/embed?url=http:%2F%2Fcafe%2F
+File Name: C:\Downloaded Web Sites\cafe\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://cafe/wp-json/oembed/1.0/embed?url=http:%2F%2Fcafe%2F&format=xml
+File Name: C:\Downloaded Web Sites\cafe\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://cafe/wp-json/wp/v2/pages/81
+File Name: C:\Downloaded Web Sites\cafe\wp-json\wp\v2\pages\81
+Content Type: application/json
+
+Uri: http://cafe/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\cafe\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Cormorant+Unicase:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Lato:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Special+Elite:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=swap&subset=cyrillic&ver=6.1.1
+File Name: C:\Downloaded Web Sites\cafe\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/cormorantunicase/v24/HI_QiZUaILtOqhqgDeXoF_n1_fTGX9vQlMc.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\cormorantunicase\v24\HI_QiZUaILtOqhqgDeXoF_n1_fTGX9vQlMc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantunicase/v24/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcs5mg.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\cormorantunicase\v24\HI_ViZUaILtOqhqgDeXoF_n1_fTGX9MLsNcs5mg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantunicase/v24/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cs5mg.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\cormorantunicase\v24\HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Mnt9cs5mg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantunicase/v24/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcs5mg.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\cormorantunicase\v24\HI_ViZUaILtOqhqgDeXoF_n1_fTGX9Nvsdcs5mg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/cormorantunicase/v24/HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcs5mg.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\cormorantunicase\v24\HI_ViZUaILtOqhqgDeXoF_n1_fTGX9N_ttcs5mg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u-w4BMUTPHjxsIPx-oPCc.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6u-w4BMUTPHjxsIPx-oPCc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHh30AXC-v.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6u8w4BMUTPHh30AXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u8w4BMUTPHjxsAXC-v.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6u8w4BMUTPHjxsAXC-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh50XSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6u9w4BMUTPHh50XSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6u_w4BMUTPHjxsI3wi_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6u_w4BMUTPHjxsI5wq_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\lato\v23\S6u_w4BMUTPHjxsI9w2_Gwfo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOiCnqEu92Fr1Mu51QrEzQdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOjCnqEu92Fr1Mu51S7ACc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOjCnqEu92Fr1Mu51TLBCc-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOjCnqEu92Fr1Mu51TzBic-CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1MmgVxMIzc.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOkCnqEu92Fr1MmgVxMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xMIzc.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOkCnqEu92Fr1Mu51xMIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc9.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fABc9.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc9.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc9.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxP.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Oma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v24/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\robotoslab\v24\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSma2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/specialelite/v18/XLYgIZbkc4JPUL5CVArUVL0ntnAOTQ.ttf
+File Name: C:\Downloaded Web Sites\cafe\s\specialelite\v18\XLYgIZbkc4JPUL5CVArUVL0ntnAOTQ.ttf
+Content Type: font/ttf
+
